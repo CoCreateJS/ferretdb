@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-ferretdb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([e81508b](https://github.com/CoCreate-app/CoCreate-ferretdb/commit/e81508b2f9f37b67109bf153586b923a0cc8372a))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-ferretdb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
