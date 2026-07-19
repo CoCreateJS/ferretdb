@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-ferretdb/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect FerretDB integration and enhance documentation ([869460a](https://github.com/CoCreate-app/CoCreate-ferretdb/commit/869460a0bc53661a9b87bea8cde930c5fbace3a5))
+
 # 1.0.0 (2026-07-18)
 
 
