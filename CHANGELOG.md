@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/CoCreateJS/ferretdb/compare/v2.0.1...v2.0.2) (2026-11-07)
+
+
+### Bug Fixes
+
+* bump CoCreate dependency versions ([a13b2c3](https://github.com/CoCreateJS/ferretdb/commit/a13b2c332fa2d2191704e1e0a999ecf7ec8210e1))
+
 ## [2.0.1](https://github.com/CoCreateJS/ferretdb/compare/v2.0.0...v2.0.1) (2026-11-05)
 
 
